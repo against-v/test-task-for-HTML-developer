@@ -147,7 +147,7 @@ ____
 ## Полезные сервисы
 
 Цветовая схема:
-- https://colorscheme.ru/#3r11Tw0w0w0w0
+- https://colorscheme.ru
 
 Генератор изображений:
 - https://dummyimage.com
